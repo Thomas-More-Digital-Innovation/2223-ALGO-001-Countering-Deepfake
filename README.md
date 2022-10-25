@@ -12,3 +12,7 @@ A Streamlit app that checks an uploaded video for deepfakes.
 
 ## My portfolio website :wave:
 https://nercules.github.io/Portfolio-website/
+
+## Algorhythm
+Big thanks to Algorhythm for supporting this project.
+https://algorhythm.be/
