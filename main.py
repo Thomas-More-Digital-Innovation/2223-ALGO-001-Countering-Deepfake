@@ -120,18 +120,6 @@ def main():
                 video_bytes = video_file.read() 
                 st.video(video_bytes) 
 
-                # zip the predictin video
-                os.system('zip -r ' + os.path.join(zipped_path, zip_file) + ' ' + os.path.join(video_path, 'prediction.avi'))
-
-                # download prediction video
-                with open(os.path.join(zipped_path, zip_file), 'rb') as f:
-	                st.download_button(
-                        label="Download video",
-                        data=f,
-                        file_name="prediction.zip",
-                        mime="application/zip"
-                    )
-
 
 if __name__ == "__main__":
     main()
