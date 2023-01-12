@@ -8,6 +8,9 @@ A Streamlit app that checks an uploaded video for deepfakes.
 
 ### Run the app
     streamlit run main.py
+    
+## Try demo
+https://countering-deepfake-projects.digitalinnovation.be/ 
 
 ## My portfolio website :wave:
 https://nercules.github.io/Portfolio-website/
