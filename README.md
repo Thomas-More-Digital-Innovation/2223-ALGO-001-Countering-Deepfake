@@ -1,5 +1,6 @@
 # DeepFake detection webapp :busts_in_silhouette:
 A Streamlit app that checks an uploaded video for deepfakes.
+![detection example](README_Example.png)
 ###
 
 ![passed tests](https://github.com/Thomas-More-Digital-Innovation/2223-ALGO-001-Countering-Deepfake/actions/workflows/unit-testing.yml/badge.svg)
